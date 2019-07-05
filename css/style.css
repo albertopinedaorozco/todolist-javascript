@@ -1,0 +1,57 @@
+body{
+    font-family: 'Cinzel', serif; 
+    font-size: 16px;
+    margin:0 auto;
+    width: 80%;
+}
+
+header{
+    padding: 2em;
+    background: #FF3B3F;
+    color: white;
+    border-radius: 8px;
+    
+}
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    background: #CAEBF2;
+    color: gray;
+    min-height: 400px;
+    padding-top: 1.5em;
+    border-radius: 5px;
+}
+main button{
+    font-size: 1em;
+    margin: 1em 0 1em 0;
+    height: 35px;
+    background: #7889C5;
+    border-radius: 5px;
+    color: #F2F5FE;
+}
+
+main button:hover{
+    color: #75D18D;
+    cursor: pointer;
+}
+
+main input{
+    width: 260px;
+    height: 20px;
+    border-radius: 3px;
+    font-size: 0.7em;
+}
+h1{
+    text-align: center;
+}
+
+ul{
+    border: 2px  #A9A9A9;
+    border-style: dashed double;
+    width: 35%;
+    margin: 0 auto;
+    min-height: 7em;
+    list-style: none;
+}
+
